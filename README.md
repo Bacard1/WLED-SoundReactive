@@ -1,3 +1,5 @@
+![BANNER](/IMG/banner.png)
+
 # 🎤🔉WLED SoundReactiv Intelligent Light and Sound Show
 [![PayPal Donation](https://img.shields.io/badge/PayPal-Дари-синьо?logo=paypal)](https://www.paypal.com/donate/?osted_button_id=AAWFZVF2XCP5A)
 ![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
