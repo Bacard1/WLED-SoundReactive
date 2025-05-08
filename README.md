@@ -61,7 +61,7 @@ The idea is to put aluminum profiles in the corners of the room with LED strips 
 > The choice of LED strip is strictly idiDid.In my case, I needed 4 strips of 2.3 meters and I chose two strips of 5 meters with a maximum number of diodes on it to maximize effect.
 
     
-- **Other:** The project was needed and [LED-connectors](https://www.amazon.de/gp/product/B094NJLKFH/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) ,[кабели](https://www.amazon.de/gp/product/B08JTZKN4M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ,[ъглови алуминеви профили](https://www.amazon.de/gp/product/B0BG8L6D8Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) и [клемореди](https://de.aliexpress.com/item/1005006918394384.html?spm=a2g0o.order_list.order_list_main.151.133b5c5fQtV6NX&gatewayAdapt=glo2deu) 
+- **Other:** The project was needed and [LED-connectors](https://www.amazon.de/gp/product/B094NJLKFH/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1) ,[cables](https://www.amazon.de/gp/product/B08JTZKN4M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ,[corner aluminum profiles](https://www.amazon.de/gp/product/B0BG8L6D8Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) и [Clemodred](https://de.aliexpress.com/item/1005006918394384.html?spm=a2g0o.order_list.order_list_main.151.133b5c5fQtV6NX&gatewayAdapt=glo2deu) 
 
     <img align="center" src="IMG/kleme.png"  alt="клемореди" width="35%" height="35%">
     <img align="center" src="IMG/LED-kuplung.png"  alt="LED-конектори" width="35%" height="35%">
@@ -73,7 +73,7 @@ The idea is to put aluminum profiles in the corners of the room with LED strips 
 
 ## :alien: Software: 
 
-###Installation of WLED: WLED is a web server for management of Neopixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets such as WS2801 and APA102!Connect [ESP32](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) To any USB port on a Windows/Linux/Mac machine to install a WLED web server.
+### Installation of WLED: WLED is a web server for management of Neopixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets such as WS2801 and APA102!Connect [ESP32](https://de.aliexpress.com/item/1005005953505528.html?spm=a2g0o.order_list.order_list_main.20.133b5c5fUUgTke&gatewayAdapt=glo2deu) To any USB port on a Windows/Linux/Mac machine to install a WLED web server.
 - [Driver VCP Drivers:](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) After installation, restart the operating system before continuing.
 - [Flash software:](https://github.com/xyzroe/ZigStarGW-MT/releases/).: unpretentious and easy to use.
 - [WEB Flash](https://tasmota.github.io/install/): Convenient feature for installing "BIN" files provided by Tasmota.
@@ -105,5 +105,5 @@ The idea is to put aluminum profiles in the corners of the room with LED strips 
 >If "Home Assastet" recommends you a new version of WLED.Otherwise, you will lose your microphone adjustment options.
 
 > [!TIP]
-> If you like this project, [ТУК](https://github.com/Bacard1?tab=repositories) You will find more interesting borders made by me. <br>
+> If you like this project, [Here](https://github.com/Bacard1?tab=repositories) You will find more interesting borders made by me. <br>
 > If you have difficulty or have questions, do not hesitate to contact me.
