@@ -14,13 +14,13 @@ The idea is to put aluminum profiles in the corners of the room with LED strips 
 
 ## 📦 Content
 
-- [:microphone:🔉WLED SoundReactiv интилигентна цветомузика](#microphonewled-soundreactiv-интилигентна-цветомузика)
-  - [📦 Съдържание](#-съдържание)
-  - [:computer: Хардуер:](#computer-хардуер)
-    - [Компоненти:](#компоненти)
-  - [:alien: Софтуер:](#alien-софтуер)
-    - [Инсталиране на WLED: WLED e уеб сървър за управление на NeoPixel (WS2812B, WS2811, SK6812) светодиоди или също SPI базирани чипсети, като WS2801 и APA102! Свържете ESP32 към произволен USB порт на машина с Windows/Linux/MAC за да инсталирате WLED уеб сървър.](#инсталиране-на-wled-wled-e-уеб-сървър-за-управление-на-neopixel-ws2812b-ws2811-sk6812-светодиоди-или-също-spi-базирани-чипсети-като-ws2801-и-apa102-свържете-esp32-към-произволен-usb-порт-на-машина-с-windowslinuxmac-за-да-инсталирате-wled-уеб-сървър)
-    - [Конфигуриране/Настройки на WLED:](#конфигурираненастройки-на-wled)
+- [:microphone:🔉WLED SoundReactiv Intiligent flowermouth](#microphonewled-soundreactiv-intiligent-flowermouth)
+  - [📦 Content](#-content)
+  - [:computer: Hardware:](#computer-hardware)
+    - [Component:](#component)
+  - [:alien: Software:](#alien-software)
+    - [Installation of WLED: WLED is a web server for management of Neopixel (WS2812B, WS2811, SK6812) LEDs or also SPI based chipsets such as WS2801 and APA102!Connect ESP32 To any USB port on a Windows/Linux/Mac machine to install a WLED web server.](#installation-of-wled-wled-is-a-web-server-for-management-of-neopixel-ws2812b-ws2811-sk6812-leds-or-also-spi-based-chipsets-such-as-ws2801-and-apa102connect-esp32-to-any-usb-port-on-a-windowslinuxmac-machine-to-install-a-wled-web-server)
+    - [WLED configuration/settings:](#wled-configurationsettings)
     - [Home-Assistant integration:](#home-assistant-integration)
 
 ---
