@@ -5,7 +5,23 @@
 ![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)
 [![Български](https://img.shields.io/badge/Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)
 
-The idea is to place aluminum profiles with LED strips in the corners of the room, which react to sound in parallel, not sequentially. The schematic I've made is exactly the same as how I've connected the components.
+WLED SoundReactive – Intelligent Audio-Responsive Lighting with ESP32
+
+This project showcases my personal implementation of a SoundReactive WLED setup using the ESP32 microcontroller. With intelligent real-time music visualization, you can light up your space in sync with audio signals – ideal for parties, ambient lighting, or just a cool tech DIY.
+
+Included in this repository:
+
+Full YAML automation examples for Home Assistant
+
+Hardware setup instructions
+
+Configuration tips for WLED SoundReactive fork
+
+Visual enhancements for a responsive LED effect
+
+Whether you're a smart home enthusiast or just getting started with ESP32 and WLED, this project will help you create stunning lighting effects that react to sound with minimal effort.
+
+
 
 <img align="center" src="IMG\WLED-scheme.png"  alt="WLED-scheme" width="100%" height="100%">
 
