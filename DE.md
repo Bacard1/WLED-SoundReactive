@@ -1,11 +1,19 @@
 ![BANNER](/IMG/banner.png)  
 
 # 🎤🔉 WLED SoundReaktiv intelligente Farbmusik  
-[![Home Assistant](https://img.shields.io/badge/🏠_Home_Assistant-41BDF5?logo=homeassistant)](https://www.home-assistant.io/) [![Donate via PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)  
-![Script](https://img.shields.io/badge/logo-yaml-green?logo=yaml)  
-[![Български](https://img.shields.io/badge/BG_Български-език-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](BG.md)  
-[![Deutsch](https://img.shields.io/badge/DE_Deutsche-Sprache-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/de)](DE.md)  
-[![English](https://img.shields.io/badge/EN_English-language-green?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/en)](README.md)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?color=ff00d8)](https://opensource.org/licenses/MIT)
+![Downloads](https://img.shields.io/npm/dm/WLED-SoundReactive.svg?color=ff00d8)
+[![hacs_badge](https://img.shields.io/badge/HACS-2025.5.3-orange.svg?color=ff00d8)](https://github.com/hacs/integration)
+
+[![Home Assistant](https://img.shields.io/badge/.-HOME_ASSISTANT-blue?logo=homeassistant)](https://www.home-assistant.io/) 
+[![Donate via PayPal](https://img.shields.io/badge/PayPal-DONATE-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=AAWFZVF2XCP5A)
+![Script](https://img.shields.io/badge/Script-YAML-blue?logo=yaml)
+
+[![Български](https://img.shields.io/badge/BG-ЕЗИК-gree?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg
+)](BG.md)
+[![Deutch](https://img.shields.io/badge/DE-SPRACHE-gree?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg
+)](DE.md)
+[![English](https://img.shields.io/badge/EN-LANGUAGE-gree?logo=translate&labelColor=gray&style=flat-square&link=https://example.com/bg)](README.md)
 
 WLED SoundReactive – Intelligente audio-reaktive Beleuchtung mit ESP32  
 
@@ -30,13 +38,13 @@ Geeignet für fortgeschrittene und beginnende Enthusiasten in der Welt von ESP32
 ## 📦 Inhalt  
 
 - [🎤🔉 WLED SoundReaktiv intelligente Farbmusik](#-wled-soundreaktiv-intelligente-farbmusik)
-	- [📦 Inhalt](#-inhalt)
-	- [💻 Hardware](#-hardware)
-		- [Komponenten:](#komponenten)
-	- [👽 Software](#-software)
-		- [Installation von WLED:](#installation-von-wled)
-		- [Konfiguration von WLED:](#konfiguration-von-wled)
-		- [Home Assistant Integration:](#home-assistant-integration)
+  - [📦 Inhalt](#-inhalt)
+  - [💻 Hardware](#-hardware)
+    - [Komponenten:](#komponenten)
+  - [👽 Software](#-software)
+    - [Installation von WLED:](#installation-von-wled)
+    - [Konfiguration von WLED:](#konfiguration-von-wled)
+    - [Home Assistant Integration:](#home-assistant-integration)
 
 ---  
 
